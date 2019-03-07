@@ -12,3 +12,5 @@ newHeader.id = "victory"
 
 newHeader.innerHTML = 'Jeremy is the champion!'
 
+document.body.appendChild(newHeader)
+

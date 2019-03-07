@@ -3,4 +3,6 @@
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
 
-document.querySelector('#main')
+let myMain = document.querySelector('#main')
+
+myMain.remove()

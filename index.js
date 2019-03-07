@@ -10,7 +10,7 @@ const newHeader = document.createElement('h1');
 
 newHeader.id = "victory"
 
-newHeader.innerHTML = 'Jeremy is the champion!'
+newHeader.innerText = 'Jeremy is the champion!'
 
 document.body.appendChild(newHeader)
 
